@@ -2,10 +2,10 @@
 
 Simple C# GUI form showing how a Caeser Cipher works
 
-##Example Cipher##
+##Example Cipher
 
-####Starting Phrase####
+####Starting Phrase
 **HELLO WORLD**
 *2 character shifts*
-####Final Phrase####
+####Final Phrase
 **JGNNQ YQTNF**
